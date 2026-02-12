@@ -1,5 +1,5 @@
 
-# 🤖 Universal AI Toolkit
+# Universal AI Toolkit
 
   
 
@@ -19,7 +19,7 @@ The missing link between your Flutter app and the world of AI.
 
   
 
-## ✨ Features
+## Features
 
   
 
@@ -117,7 +117,7 @@ class ChatScreen extends StatelessWidget {
 ```
 
 ---
-## 🎨 Customization
+## Customization
 
 Theming
 
@@ -146,12 +146,12 @@ provider.onJsonDetected = (Map<String,  dynamic> data) {
 };
 ```
 ---
-## 🤝 Contributing
+## Contributing
 
-We welcome contributions! Please see [CONTRIBUTING.md](https://github.com/AsimRoyChowdhury/universal_ai_toolkit/CONTRIBUTING.md) for details on how to set up the project, our coding standards, and how to submit a Pull Request.
+We welcome contributions! Please see [CONTRIBUTING.md](https://github.com/AsimRoyChowdhury/universal_ai_toolkit/blob/main/CONTRIBUTING.md) for details on how to set up the project, our coding standards, and how to submit a Pull Request.
 
   
 
-## 📄 License
+## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/AsimRoyChowdhury/universal_ai_toolkit/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/AsimRoyChowdhury/universal_ai_toolkit/blob/main/LICENSE) file for details.
