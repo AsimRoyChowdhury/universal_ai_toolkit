@@ -1,0 +1,9 @@
+# .gitignore
+.dart_tool/
+.idea/
+.vscode/
+build/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+android/local.properties
+pubspec.lock
